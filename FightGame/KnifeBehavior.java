@@ -1,4 +1,4 @@
-package FightGame;
+package demos.fightGame;
 
 public class KnifeBehavior implements WeaponBehavior{
 

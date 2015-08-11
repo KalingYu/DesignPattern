@@ -1,6 +1,4 @@
-package Template;
-
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
+package demos.template;
 
 /**
  * 这是一个饮料机的模板，可以用来泡咖啡、泡茶，等等

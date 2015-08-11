@@ -1,6 +1,6 @@
-package demos.fightGame;
+package demos.fightgame;
 
-public class KnifeBehavior implements WeaponBehavior{
+public class KnifeBehavior implements WeaponBehavior {
 
     @Override
     public void useWeapon() {

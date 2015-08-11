@@ -1,7 +1,11 @@
-package demos.fightGame;
+package demos.fightgame;
+
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 装饰者模式
+ */
 public class StartGame {
 
 

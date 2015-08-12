@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 装饰者模式
  */
-public class StartGame {
+public class Test {
 
 
 

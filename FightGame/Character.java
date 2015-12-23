@@ -1,4 +1,4 @@
-package FightGame;
+package demos.fightgame;
 
 public class Character {
 

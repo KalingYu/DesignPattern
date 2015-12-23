@@ -1,4 +1,4 @@
-package demos.template;
+package template;
 
 /**
  * Created by kaling on 15/6/16.

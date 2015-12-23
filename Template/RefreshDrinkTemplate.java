@@ -15,7 +15,6 @@ public abstract class RefreshDrinkTemplate {
         pourPowder();
         pourWater();
         pourOther();
-
     }
 
     private final void pourWater() {

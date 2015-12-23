@@ -1,4 +1,4 @@
-package demos.fightgame;
+package fightgame;
 
 import java.util.ArrayList;
 import java.util.List;

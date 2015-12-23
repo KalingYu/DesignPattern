@@ -1,4 +1,4 @@
-package demos.abstractfactory;
+package abstractfactory;
 
 
 /**

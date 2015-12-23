@@ -1,4 +1,4 @@
-package Template;
+package template;
 
 /**
  * Created by kaling on 11/6/15.

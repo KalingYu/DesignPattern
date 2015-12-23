@@ -1,4 +1,4 @@
-package demos.staticfacotory;
+package staticfacotory;
 /**
  * Created by kaling on 15/8/11.
  */

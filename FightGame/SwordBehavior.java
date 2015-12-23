@@ -1,4 +1,4 @@
-package demos.fightgame;
+package fightgame;
 
 public class SwordBehavior implements WeaponBehavior{
     @Override

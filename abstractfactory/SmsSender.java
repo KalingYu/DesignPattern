@@ -1,4 +1,4 @@
-package demos.abstractfactory;
+package abstractfactory;
 
 /**
  * Created by kaling on 15/8/11.

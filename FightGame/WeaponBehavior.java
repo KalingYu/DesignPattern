@@ -1,4 +1,4 @@
-package demos.fightgame;
+package fightgame;
 
 public interface WeaponBehavior {
 

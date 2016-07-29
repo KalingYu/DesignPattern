@@ -1,6 +1,6 @@
 package fightgame;
 
-public class KnifeBehavior implements WeaponBehavior {
+public class KnifeBehavior implements fightgame.WeaponBehavior {
 
     @Override
     public void useWeapon() {

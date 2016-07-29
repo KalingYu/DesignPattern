@@ -1,4 +1,4 @@
-package template;
+package tempate;
 
 /**
  * 这是一个饮料机的模板，可以用来泡咖啡、泡茶，等等

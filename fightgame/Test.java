@@ -28,15 +28,5 @@ public class Test {
         king.setWeapon(new SwordBehavior());
         king.fight();
 
-
-
-
-
-
-
-
-
-
-
     }
 }

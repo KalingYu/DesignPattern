@@ -1,4 +1,4 @@
-package template;
+package tempate;
 
 /**
  * Created by kaling on 11/6/15.
